@@ -46,4 +46,4 @@ Durante o desenvolvimento deste projeto foram aplicados conhecimentos relacionad
 
 ## Contato
 
-- LinkedIn: [Vinícius Moreira Roberti](https://www.linkedin.com/in/vinicius-moreira-roberti-42aa1a24a/)
+- LinkedIn: [Vinícius Moreira Roberti](https://www.linkedin.com/in/vin%C3%ADcius-moreira-roberti-42aa1a24a/)
